@@ -1,2 +1,3 @@
 # C-Data-Structures
-Example Data structures 
+Example Data structures.
+These solution files represent a range of programming projects, each focusing on specific data structures or algorithms. "LinkedList.sln" explores operations on linked lists, while "sorting.sln" delves into various sorting techniques. "Graph.sln" is likely centered around graph theory and its applications, and "Recursion.sln" demonstrates problem-solving using recursive methods. "Space Constraints.sln" investigates optimization strategies for memory efficiency. Additionally, files like "CalvinTabel.sln" and "HashTabel2.sln" explore table-based structures, including hash tables. "BinarySearchTree.sln" concentrates on binary search trees and their manipulation.
